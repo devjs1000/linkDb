@@ -1,0 +1,8 @@
+{
+  "name": "linkDb",
+  "version": "0.1.1",
+  "description": "best relational db for scaleUp projects",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT"
+}
